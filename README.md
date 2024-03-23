@@ -1,6 +1,4 @@
-# face-to-many
-
-Turn any face into 3D, pixel art, video game, claymation or toy.
+ video game, ps2, cool
 
 Run this model on Replicate:
 
@@ -22,7 +20,7 @@ You’ll need these custom nodes:
 
 ## Loras
 
-The 3D, video game, pixel art, claymation and toy loras are all made by artificialguybr. If you like them you can make a donation to their Patreon or Ko-fi:
+ video game, ps2, cool artificialguybr. If you like them you can make a donation to their Patreon or Ko-fi:
 
 - https://www.patreon.com/user?u=81570187
 - https://ko-fi.com/artificialguybr
